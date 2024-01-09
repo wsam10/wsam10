@@ -29,15 +29,12 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
 
-- 🔭 I’m currently working on my company
+- 🔭 I’m currently working on my own company
 - 🌱 I’m currently learning React.js & Next.js
-- Enjoy to do programming and sharing knowledge
-- Love to writing code and learning new features
+- 💛 UI/UX & Coding
 - 💬 Ask me about anything [here](https://github.com/wsam10/wsam10/issues)
-- 📫 Reach me anytime: ws8249942@gmail.com<br/><br/>
+- 📫 Reach me anytime: ws8249942@gmail.com
 - ⚡ Fun fact: if it works good improve it
 
 </p>
@@ -46,7 +43,7 @@
 <br/>
 <br/>
 
-## I Use
+# I Use
 ![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
