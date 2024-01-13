@@ -48,7 +48,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,tailwind,nodejs,vite,react,nextjs,vue,expressjs,nestjs,prisma,mongodb,figma,astro" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,tailwind,nodejs,vite,react,nextjs,vue,expressjs,nestjs,astro,prisma,mongodb,figma,xd,postman,vercel,vscode" />
   </a>
 </p>
 
