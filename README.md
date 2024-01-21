@@ -16,7 +16,7 @@
         </samp>
 </p>
 <h3 align="center">
-      <samp> I am a Frontend Developer & UI/UX Designer from <b>Yenem 🇾🇪 </b> </samp>
+      <samp> I am a Frontend Developer & UI/UX Designer from <b>Yemen 🇾🇪 </b> </samp>
 </h3>
 
 
